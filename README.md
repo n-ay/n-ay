@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 </div>
 
 <!--- - 🔭 I’m currently working on -->
-- 🎓 I graduated from NIT Silchar with a Bachelor's in Computer Science in June 2023 
-- 🌱 I’m currently exploring the fusion of XR with AI
-- 💬 Ask me about Augmented Reality, Three.js, Spark AR Studio, and WebXR!
-- 📫 How to reach me: ayeshajune24@gmail.com
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I have fostered 11 cats in the past two years!
+- 🎓 I graduated from NIT Silchar with a **Bachelor's in Computer Science** in June 2023 
+- 🌱 I’m currently exploring the fusion of **XR with AI**
+- 💬 Ask me about **Augmented Reality, Three.js, Spark AR Studio, and WebXR!**
+- 📫 How to reach me: **ayeshajune24@gmail.com**
+- 😄 Pronouns: **She/Her**
+- 🐈**Fun fact:** I have fostered 11 cats in the past two years!
+- ⚡**Hobbies:** Reading 📚, Travelling ✈, Photography 📸, Singing 🎤, Playing the guitar 🎸
