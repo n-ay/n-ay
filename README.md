@@ -1,11 +1,10 @@
-<!-- ### Hi there 👋 -->
-
 <!--
 **n-ay/n-ay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 -->
+
 <div align=center>
-  <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Ayesha+%F0%9F%91%8B;" alt="Headline" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there,+I'm+Ayesha+%F0%9F%91%8B;" alt="Headline" />
 </div>
 
 
