@@ -12,6 +12,7 @@ Here are some ideas to get you started:
         <a href="https://www.linkedin.com/in/ayesha-nasim/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
 </div>
 
+## 🔶 About Me
 <!--- - 🔭 I’m currently working on -->
 - 🎓 I graduated from NIT Silchar with a **Bachelor's in Computer Science** in June 2023 
 - 🌱 I’m currently exploring the fusion of **XR with AI**
@@ -24,7 +25,7 @@ Here are some ideas to get you started:
 
 ## 🛠️ My Skills
 
-### 👉 Programming languages
+####  Programming languages
 
 <p align="left"> 
   &emsp; 
@@ -50,7 +51,7 @@ Here are some ideas to get you started:
   &emsp;
 </p>
 
-### 👉 Frontend Development
+#### Frontend Development
 <p align="left"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
@@ -67,7 +68,7 @@ Here are some ideas to get you started:
    &emsp;
 </p>
 
-### 👉 Databases & Cloud Hosting
+#### Databases & Cloud Hosting
 <p align="left">
   &emsp;
     <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&llogo=mysql&logoColor=white"></a>
@@ -80,7 +81,7 @@ Here are some ideas to get you started:
 
  </p>
   
-### 👉Graphic Designing
+#### Graphic Designing
 <p align="left">
   &emsp;
   <a href="https://www.adobe.com/in/products/photoshop-lightroom.html" target="_blank"> 
@@ -92,7 +93,7 @@ Here are some ideas to get you started:
   </a>
  </p>
 
- ### 👉 Software & Tools
+ #### Software & Tools
  
 <p>
   &emsp;
