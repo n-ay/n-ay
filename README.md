@@ -112,7 +112,7 @@ Here are some ideas to get you started:
 
  #### Software & Tools
  
-<p>
+<p align="left">
   &emsp;
     <a href="#"><img alt="Colab" src="https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&logoColor=white"></a>
   &emsp;
@@ -124,10 +124,11 @@ Here are some ideas to get you started:
   &emsp;
     <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white"></a>
   &emsp;
-</p>
+
+ </p>
 
 <!--
-## my contribution graph get eaten by the snake 🐍:
+## my contribution graph gets eaten by the snake 🐍:
 <img align='center' src='https://github.com/mayankchaudhary26/mayankchaudhary26/blob/output/github-contribution-grid-snake.gif' width='900"'>
 -->
 
