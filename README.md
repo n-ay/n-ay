@@ -130,11 +130,18 @@ Here are some ideas to get you started:
  </p>
 <br>
 <br>
-
+#### My Github Stats
+ <div>
+  <a href="https://github.com/eagrundy">
+   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n-ay&layout=compact&langs_count=16&theme=github_dark"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=n-ay&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide=issues"/>
+</div>
+<br>
+<br>
 <!--
 ## my contribution graph gets eaten by the snake 🐍:
-<img align='center' src='https://github.com/mayankchaudhary26/mayankchaudhary26/blob/output/github-contribution-grid-snake.gif' width='900"'>
--->
+<img align='center' src='https://github.com/n-ay/n-ay/blob/output/github-contribution-grid-snake.svg' width='900'>
 
+-->
 
 
