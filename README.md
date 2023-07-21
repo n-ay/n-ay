@@ -8,6 +8,22 @@ Here are some ideas to get you started:
 </div>
 
 
+<p align="center">
+  	<a href="https://me-n-ay.vercel.app/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white&color=071A2C" alt="Website"/></a>
+	&emsp;
+	<a href="mailto:ayeshajune24@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=071A2C" alt="Gmail"/></a>
+	&emsp;
+	<a href="https://github.com/n-ay"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=071A2C" alt="GitHub"/></a>
+	&emsp;
+	<a href="https://linkedin.com/in/ayesha-nasim"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=for-the-badge&logo=linkedin&color=071A2C" alt="LinkedIn"/></a>
+	&emsp;
+	<a href="https://www.facebook.com/ayeshanasim24"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&color=071A2C" alt="Facebook"/></a>
+	&emsp;
+  <a href="https://instagram.com/ayesha__nasim" target="_blank">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=071A2C" alt="Instagram"/>
+  </a>
+	
+</p>
 
 
 ## 🔶 About Me
@@ -107,23 +123,10 @@ Here are some ideas to get you started:
   &emsp;
 </p>
 
+<!--
+## my contribution graph get eaten by the snake 🐍:
+<img align='center' src='https://github.com/mayankchaudhary26/mayankchaudhary26/blob/output/github-contribution-grid-snake.gif' width='900"'>
+-->
 
 
-## 🙋‍♀️ Let's Connect
-
-
-<p align="center">
-  	<a href="https://me-n-ay.vercel.app/"><img src="https://img.shields.io/badge/website-000000?style=plastic&logo=About.me&logoColor=white" alt="Website"/></a>
-	&emsp;
-	<a href="mailto:ayeshajune24@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	&emsp;
-	<a href="https://github.com/n-ay"><img src="https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	&emsp;
-	<a href="https://linkedin.com/in/ayesha-nasim"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=plastic&logo=linkedin" alt="LinkedIn"/></a>
-	&emsp;
-	<a href="https://www.facebook.com/ayeshanasim24"><img src="https://img.shields.io/badge/Facebook-1877F2?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
-	&emsp;
-	<a href="https://instagram.com/ayesha__nasim"><img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
-	
-</p>
 
