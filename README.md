@@ -140,7 +140,7 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-## my contribution graph gets eaten by the snake 🐍:
+## my contribution graph gets eaten by a snake 🐍:
 <img align='center' src='https://github.com/n-ay/n-ay/blob/output/github-contribution-grid-snake-dark.svg' width='900'>
 
 
