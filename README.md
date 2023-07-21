@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 	
 </p>
 
+<br>
 
 ## 🙋‍♀️ About Me
 <!--- - 🔭 I’m currently working on -->
@@ -39,6 +40,7 @@ Here are some ideas to get you started:
 - 🐈**Fun fact:** I have fostered 11 cats in the past two years!
 - ⚡**Hobbies:** Reading 📚, Travelling ✈, Photography 📸, Singing 🎤, Playing the guitar 🎸
 
+<br>
 
 ## 🛠️ My Skills
 
@@ -126,6 +128,8 @@ Here are some ideas to get you started:
   &emsp;
 
  </p>
+<br>
+<br>
 
 <!--
 ## my contribution graph gets eaten by the snake 🐍:
