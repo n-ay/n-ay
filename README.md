@@ -3,7 +3,7 @@
 Here are some ideas to get you started:
 -->
 <div align=center>
-<img align='center' src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/daftpunktocat-guy.gif' width='300'>
+<img align='center' src='https://github.com/n-ay/n-ay/blob/main/assets/daftpunktocat-thomas.gif' width='300'>
 </div>
 
 <div align=center>
