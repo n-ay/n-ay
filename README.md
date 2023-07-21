@@ -2,6 +2,9 @@
 **n-ay/n-ay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 -->
+<div align=center>
+<img align='center' src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/daftpunktocat-guy.gif' width='300'>
+</div>
 
 <div align=center>
   <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there,+I'm+Ayesha+%F0%9F%91%8B;" alt="Headline" />
@@ -26,7 +29,7 @@ Here are some ideas to get you started:
 </p>
 
 
-## 🔶 About Me
+## 🙋‍♀️ About Me
 <!--- - 🔭 I’m currently working on -->
 - 🎓 I graduated from NIT Silchar with a **Bachelor's in Computer Science** in June 2023 
 - 🌱 I’m currently exploring the fusion of **XR with AI**
