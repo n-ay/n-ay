@@ -139,10 +139,9 @@ Here are some ideas to get you started:
 </div>
 <br>
 <br>
-<!--
-## my contribution graph gets eaten by the snake 🐍:
-<img align='center' src='https://github.com/n-ay/n-ay/blob/output/github-contribution-grid-snake.svg' width='900'>
 
--->
+## my contribution graph gets eaten by the snake 🐍:
+<img align='center' src='https://github.com/n-ay/n-ay/blob/output/github-contribution-grid-snake-dark.svg' width='900'>
+
 
 
