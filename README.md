@@ -32,7 +32,8 @@ Here are some ideas to get you started:
 
 ## 🙋‍♀️ About Me
 <!--- - 🔭 I’m currently working on -->
-- 🎓 I am currently pursuing a Master's in Computer Science from the University of Southern California and graduated from NIT Silchar with a **Bachelor's in Computer Science** in June 2023 
+- 🎓 I am currently pursuing a **Master's in Computer Science** from the **University of Southern California**, set to graduate in December 2025.
+- 👨‍🎓 I graduated from NIT Silchar with a **Bachelor's in Computer Science** in June 2023 
 - 🌱 I’m currently exploring the fusion of **XR with AI**
 - 💬 Ask me about **Augmented Reality, Three.js, Spark AR Studio, and WebXR!**
 - 📫 How to reach me: **ayeshajune24@gmail.com**
