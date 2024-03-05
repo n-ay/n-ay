@@ -134,14 +134,14 @@ Here are some ideas to get you started:
 
 ####  My Github Stats
  <div>
-  <a href="https://github.com/eagrundy">
+  <a href="https://github.com/n-ay">
    <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n-ay&layout=compact&langs_count=16&theme=github_dark"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=n-ay&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide=issues"/>
 </div>
 <br>
 <br>
 
-## my contribution graph gets eaten by a snake 🐍:
+## My contribution graph gets eaten by a snake 🐍:
 <img align='center' src='https://github.com/n-ay/n-ay/blob/output/github-contribution-grid-snake-dark.svg' width='900'>
 
 
