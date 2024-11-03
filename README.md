@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-  	<a href="https://ayesha-nasim-portfolio.vercel.app/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white&color=071A2C" alt="Website"/></a>
+  	<a href="https://www.ayeshanasim.com"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white&color=071A2C" alt="Website"/></a>
 	&emsp;
 	<a href="mailto:ayeshajune24@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=071A2C" alt="Gmail"/></a>
 	&emsp;
